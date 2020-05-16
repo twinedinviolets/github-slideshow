@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to twinedinviolet's slide!"
 ---
 >He turns not back who is bound to a star
 
